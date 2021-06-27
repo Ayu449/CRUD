@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web Form Using CRUD Operations", "CRUD\Web Form Using CRUD Operations.csproj", "{575A8AA5-6C7A-4BC0-945B-5FD81E3A7D05}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{575A8AA5-6C7A-4BC0-945B-5FD81E3A7D05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{575A8AA5-6C7A-4BC0-945B-5FD81E3A7D05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{575A8AA5-6C7A-4BC0-945B-5FD81E3A7D05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{575A8AA5-6C7A-4BC0-945B-5FD81E3A7D05}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B5267D5-7582-4C2F-B13C-966064DC5B02}
+	EndGlobalSection
+EndGlobal
